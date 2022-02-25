@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    text-align: center;
+  }
+  .text{
+    display:inline-block;
+    margin-left: 30px;
+  }
+  .jumbotron{
+    text-align: center;
+    margin-top:left 30px;
+  }
